@@ -1,4 +1,7 @@
 # TerraGuardTuts
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chandrapati.TerraGuardTuts&left_text=visitors)
+
 Empowering network security engineers with hands-on Terraform and Python guides for fortified cloud security!
 
 This repository is designed to help network security engineers learn cloud security and DevOps skills using Terraform and Python.
